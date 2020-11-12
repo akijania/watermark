@@ -1,0 +1,11 @@
+{
+  "name": "watermark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/akijania/watermark.git",
+  "author": "Anna Kijania <kijania.anna@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
